@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_21f7e34accf9a963327adb2bcacf8447a88fd905/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="132e8a0d83dcbfac4a5ac3237a020df090d0d401">
+        <dex dex="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_989fea7658a93fe7938fa2e6bf2be8866cd84d2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_45847c1acd36bec5562a7dc3608e61c8aa13e4eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_18705769c5d39d92136507bfaa80e985557a6758/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tetyana/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_0ac5acd701379986114b2302415a5443d259515a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_f8f01120da8f0c9a29244d5d90793956ecccbf42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="652a6e5f39015cb1d20dc8c2429d187dd312ebbd">
+        <dex dex="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dc700dff1266681bff1efce11b58500814ef1281/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_1db2ec51bf46d63105bf469e8bebd918c6d964d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_3ffbadfe1769857bb1ff5793babb24f39678d398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_0d2182d1afb90371cf6b54da99002dbfaf77fcc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_277d30f6dd1b1b2f617e72e314fd0883e5bb762a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/tetyana/GitHub/Udacity/udacity_footballscoring/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_80afcbd3eb825748c1e7976516a028fcbe752dc1/classes.dex" />
+    </item>
+
+</items>

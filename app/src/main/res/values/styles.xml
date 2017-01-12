@@ -6,4 +6,36 @@
         <!-- Background color of buttons in the app -->
         <item name="colorButtonNormal">#4CAF50</item>
     </style>
+
+    <!-- Custom button style used for smaller buttons (e.g. red and yellow cards buttons) -->
+    <style name="CustomButtonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginRight">28dp</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+    <!-- Custom button style used for larger buttons (e.g. Goal button) -->
+    <style name="LargeButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">24dp</item>
+        <item name="android:layout_marginRight">24dp</item>
+        <item name="android:padding">32dp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <!-- TextView style for text next to smaller buttons (e.g. yellow and red card buttons) -->
+    <style name="SmallerTextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">32sp</item>
+    </style>
 </resources>
